@@ -1,0 +1,331 @@
+[
+  {
+    "path": "0第5章  中央处理部件CPU-6次课12课时.pptx",
+    "bytes": 4067957,
+    "storage": "git",
+    "sha256": "95904de42e4aeb0de32f912bda691e35621afd4f098c60f3bc64201858d949be",
+    "mtime_ns": 1652240172000000000
+  },
+  {
+    "path": "1第5章  中央处理部件CPU-6次课12课时-2.pptx",
+    "bytes": 1045328,
+    "storage": "git",
+    "sha256": "dae25d4131f7cb40a7c17b05d198e02437a92719c5c823289c6bc75d7efe2c67",
+    "mtime_ns": 1622100882000000000
+  },
+  {
+    "path": "2454259费凡计组作业.pdf",
+    "bytes": 2154640,
+    "storage": "git",
+    "sha256": "34b2d195ad3dfc12570cb2a36483def1f764bd3f3241e002992a68059465188c",
+    "mtime_ns": 1782885840718098600
+  },
+  {
+    "path": "第1章 概论-1次课2课时（tz）.ppt",
+    "bytes": 4533248,
+    "storage": "git",
+    "sha256": "6c75e35e9ae9ffc0f4103a62a5b22d20b6c0fb489f78a476e5fc3397d9e963f1",
+    "mtime_ns": 1378437164000000000
+  },
+  {
+    "path": "第1章-ch补充 计算机系统概论.ppt",
+    "bytes": 545280,
+    "storage": "git",
+    "sha256": "c18eeed03a3e26e6ac3e4266319b08f585c6bf215438d439f184111f37a4c54e",
+    "mtime_ns": 1742472562000000000
+  },
+  {
+    "path": "第2章 计算机中数的表示及基本-10版.pptx",
+    "bytes": 3778559,
+    "storage": "git",
+    "sha256": "3dae2e8b0f639ad9fb34320cd9356d7752a41e4f46df9bba6b2913f7aa663e01",
+    "mtime_ns": 1741943122000000000
+  },
+  {
+    "path": "第2章-ch补充 计算机的逻辑部件.ppt",
+    "bytes": 1057792,
+    "storage": "git",
+    "sha256": "e1631334ae2b3a580e7c7bf884f07d6b2ec7020cd02b2da38f0ee94f211a93fc",
+    "mtime_ns": 1742472560000000000
+  },
+  {
+    "path": "第3章 运算器及运算方法-03版.ppt",
+    "bytes": 987648,
+    "storage": "git",
+    "sha256": "41aacd45630cd70453abe9e214fd10214d180295cf8db7c9adbcd918058c60f2",
+    "mtime_ns": 1649825900000000000
+  },
+  {
+    "path": "第3章-ch补充  运算方法和运算部件.ppt",
+    "bytes": 1383936,
+    "storage": "git",
+    "sha256": "d8c3caedaa675ae6898df370bfa6d3e2e057c8bf7330ce4a6a0ded7c0aeef95d",
+    "mtime_ns": 1742472562000000000
+  },
+  {
+    "path": "第4章 指令系统课件.ppt",
+    "bytes": 3182080,
+    "storage": "git",
+    "sha256": "6dfbefbefa34a2941ec3844e91ada83bbc09fc035f15b48b28680a6f46fdf4d2",
+    "mtime_ns": 1650784078000000000
+  },
+  {
+    "path": "第4章-ch补充 存储系统.ppt",
+    "bytes": 1232384,
+    "storage": "git",
+    "sha256": "eb4ae9fc36cfb5f6b2654c25b9d3b67d4290a0279665d6d5d34947928670fe0e",
+    "mtime_ns": 1742472560000000000
+  },
+  {
+    "path": "第5章-ch补充  指令系统.ppt",
+    "bytes": 1885184,
+    "storage": "git",
+    "sha256": "2e7d8ac4293ebaddc7933fc1bfce18e9932108a12b0a50e1da1edd157320074c",
+    "mtime_ns": 1742472558000000000
+  },
+  {
+    "path": "第5章补充-MIPS指令集以及CPU设计讲解.zip",
+    "bytes": 11484811,
+    "storage": "git",
+    "sha256": "313386363cd8cfc9183f2d10c42f93e0da14da166b09a501bb05b0f60d3cd132",
+    "mtime_ns": 1774416430980634000
+  },
+  {
+    "path": "第6章  主存储器.ppt",
+    "bytes": 2233856,
+    "storage": "git",
+    "sha256": "88cd7a2e70a0270ce43c8866ba8e3ccabde6b22d14354146adb9a69ef6cf2704",
+    "mtime_ns": 1377704492000000000
+  },
+  {
+    "path": "第6章-ch补充  中央处理部件（CPU）.ppt",
+    "bytes": 12765184,
+    "storage": "git",
+    "sha256": "27952dbfbb26e759a1e15fdcb435bbf4d3cdd5293be96c38ded02a70e5cb2573",
+    "mtime_ns": 1742472560000000000
+  },
+  {
+    "path": "第7章  输入输出系统-5次课10课时.ppt",
+    "bytes": 785408,
+    "storage": "git",
+    "sha256": "4267ac1cda14ea3d446d00899178cad38af1f02a7ad4986dcabd2706f32cb0b4",
+    "mtime_ns": 1387939642000000000
+  },
+  {
+    "path": "第7章-ch补充 输入输出系统.ppt",
+    "bytes": 1011712,
+    "storage": "git",
+    "sha256": "cfbd99f13fe13bcebc9ac0ff968f860788746fe5e79830f48628dfb2b33c7c44",
+    "mtime_ns": 1742472556000000000
+  },
+  {
+    "path": "第8章计算机IO接口.ppt",
+    "bytes": 1479168,
+    "storage": "git",
+    "sha256": "5016cccb4e64358d4e325ffb62b1d2aced33bb57459f82afd7b09a171646c738",
+    "mtime_ns": 1373956344000000000
+  },
+  {
+    "path": "计算机组成与结构（第五版） (王爱英) (z-library.sk, 1lib.sk, z-lib.pdf",
+    "bytes": 98001828,
+    "storage": "git",
+    "sha256": "7ee5a645fa6def228a9167f966d4ebbe63841ba8c14329089d3965fcfded40c8",
+    "mtime_ns": 1773315151854362000
+  },
+  {
+    "path": "计算机组成原理复习范围.docx",
+    "bytes": 1342864,
+    "storage": "git",
+    "sha256": "ea9e9582d72077503085f1c1e2dc597872b9ec894e145a5a70fe3ac2c7b41bd4",
+    "mtime_ns": 1781856820353849400
+  },
+  {
+    "path": "计组作业.pptx",
+    "bytes": 65751,
+    "storage": "git",
+    "sha256": "8732e98ccc980f59d17e8aceb7d3c31f1aa97515f86859bf50a0fd0ac3a28def",
+    "mtime_ns": 1774416385344712700
+  },
+  {
+    "path": "计组复习指南.docx",
+    "bytes": 3260788,
+    "storage": "git",
+    "sha256": "375b7e49b278c551d2bbcec8f3446c8744be28abef2e5161021847642b0d01d0",
+    "mtime_ns": 1781857632027014900
+  },
+  {
+    "path": "计组重点.docx",
+    "bytes": 9300874,
+    "storage": "git",
+    "sha256": "a37dd695a6b1619576248145ed452a6294b3424599f2ea876cb21ffe41ac8192",
+    "mtime_ns": 1782711390810512400
+  },
+  {
+    "path": "第5章补充MIPS指令集CPU设计实例讲座-实例讲解8条指令\\7_1 MIPS CPU概述(基本架构+Mars汇编器).pptx",
+    "bytes": 1833891,
+    "storage": "git",
+    "sha256": "dc9dd434482a81b87795671ec15848cc66a212cb814ac9a85148990f66fa7760",
+    "mtime_ns": 1520333572000000000
+  },
+  {
+    "path": "第5章补充MIPS指令集CPU设计实例讲座-实例讲解8条指令\\7_1 MIPS CPU概述.pptx",
+    "bytes": 1922784,
+    "storage": "git",
+    "sha256": "0813f72bd22cbf9e3874cc70d21aad0acc2ba92fc52fd52c2d7bd9ea622b7144",
+    "mtime_ns": 1519708502000000000
+  },
+  {
+    "path": "第5章补充MIPS指令集CPU设计实例讲座-实例讲解8条指令\\7_1 MIPS CPU概述（CP0和MIPS CPU中断机制）.pptx",
+    "bytes": 1309186,
+    "storage": "git",
+    "sha256": "91a3676f4df332b13918cdba441c2b52b91772fdbfeec4bca84fc3bad5f2606f",
+    "mtime_ns": 1520333588000000000
+  },
+  {
+    "path": "第5章补充MIPS指令集CPU设计实例讲座-实例讲解8条指令\\7_2 MIPS32 指令系统介绍.pptx",
+    "bytes": 1357669,
+    "storage": "git",
+    "sha256": "501548804bab589968455dab1b96764a843b8e57d1c4c8d6fb5fa7662b4823f5",
+    "mtime_ns": 1520333572000000000
+  },
+  {
+    "path": "第5章补充MIPS指令集CPU设计实例讲座-实例讲解8条指令\\7_3 MIPS 31条指令介绍.pptx",
+    "bytes": 875468,
+    "storage": "git",
+    "sha256": "fb03f7dfa9051da4aa5f17ae441406bc983c15f312869d5380a813e6b53d46e0",
+    "mtime_ns": 1520395648000000000
+  },
+  {
+    "path": "第5章补充MIPS指令集CPU设计实例讲座-实例讲解8条指令\\7_4 MIPS 23条扩展指令介绍.pptx",
+    "bytes": 1024030,
+    "storage": "git",
+    "sha256": "193080beef197afd7ab06109f194983150a64725d3b2ce4d523fc0b64f42d4d3",
+    "mtime_ns": 1520395646000000000
+  },
+  {
+    "path": "第5章补充MIPS指令集CPU设计实例讲座-实例讲解8条指令\\7_5_6 MIPS CUP设计.pptx",
+    "bytes": 3653057,
+    "storage": "git",
+    "sha256": "212621cee096092a3ddece3fb723922d3abecd99e8427841c89eb4733e8358a2",
+    "mtime_ns": 1653288128000000000
+  },
+  {
+    "path": "第5章补充MIPS指令集CPU设计实例讲座-实例讲解8条指令\\MIPS 23条扩展指令集.pdf",
+    "bytes": 133374,
+    "storage": "git",
+    "sha256": "19b2093bec61c065e79208f942c3d3dc27cf1a6fa20c9f00518ab7d1b7199af0",
+    "mtime_ns": 1520395650000000000
+  },
+  {
+    "path": "第5章补充MIPS指令集CPU设计实例讲座-实例讲解8条指令\\MIPS 31条指令集.pdf",
+    "bytes": 224965,
+    "storage": "git",
+    "sha256": "766cb47881533e7eafb1d4903b86edd4cb95397a60a81d2e20834c6566e33df9",
+    "mtime_ns": 1520395644000000000
+  },
+  {
+    "path": "第5章补充MIPS指令集CPU设计实例讲座-实例讲解8条指令\\计算机组成原理CPU设计实验方法探讨.pdf.pdf",
+    "bytes": 1903122,
+    "storage": "git",
+    "sha256": "673783e8ee978ff53bd68f05581d28adbc8a44ea4c82154b55ae5ab084f4cf18",
+    "mtime_ns": 1616942224000000000
+  },
+  {
+    "path": "第五章CPU\\0第5章  中央处理部件CPU-6次课12课时.pptx",
+    "bytes": 3710299,
+    "storage": "git",
+    "sha256": "0db175ea0d64bdf271cae04b3f45bbe11e732940f166ca5a22337e8bfc80c3fc",
+    "mtime_ns": 1384318864000000000
+  },
+  {
+    "path": "第五章CPU\\1第5章  中央处理部件CPU-6次课12课时-2.pptx",
+    "bytes": 1045298,
+    "storage": "git",
+    "sha256": "9cafce5c1f77b851015e806256010f1f1bb952ae43963a39a6a8d06e4e5e9dd9",
+    "mtime_ns": 1384329892000000000
+  },
+  {
+    "path": "第五章CPU\\教学动画\\5.1.html",
+    "bytes": 320,
+    "storage": "git",
+    "sha256": "5a9c8c81e6484a7d85d41440b96eaaf6f81cfb843150552c10591ccc39360457",
+    "mtime_ns": 1222244635000000000
+  },
+  {
+    "path": "第五章CPU\\教学动画\\5.1.swf",
+    "bytes": 566568,
+    "storage": "git",
+    "sha256": "14e64bd89630b4927f01f80d705385fb0c0059a9b5103944dffa18989ea2e652",
+    "mtime_ns": 1210770398000000000
+  },
+  {
+    "path": "第五章CPU\\教学动画\\5.20.html",
+    "bytes": 321,
+    "storage": "git",
+    "sha256": "41b45068fec2df64399ed2d7d93d8e8d52b489e4c1284a29baa26ab9253a50ed",
+    "mtime_ns": 1222251856000000000
+  },
+  {
+    "path": "第五章CPU\\教学动画\\5.20.swf",
+    "bytes": 191430,
+    "storage": "git",
+    "sha256": "180310eac0702e09536fcc0ef96419f1dcbfa2d3456aabcd604321ccc08b6c83",
+    "mtime_ns": 1210771170000000000
+  },
+  {
+    "path": "第五章CPU\\教学动画\\5.23.html",
+    "bytes": 321,
+    "storage": "git",
+    "sha256": "288ba9f1e5d634a5699f8ee248c961cc7e491848e46346351ed9153627e10b9e",
+    "mtime_ns": 1222261311000000000
+  },
+  {
+    "path": "第五章CPU\\教学动画\\5.23.swf",
+    "bytes": 176331,
+    "storage": "git",
+    "sha256": "2ad72caa215b42715fff8279ba60b213f18664365207b808d3438cc2eb1f455d",
+    "mtime_ns": 1210771304000000000
+  },
+  {
+    "path": "第五章CPU\\教学动画\\5.32.html",
+    "bytes": 321,
+    "storage": "git",
+    "sha256": "df36f4557eac13ccb0c7697557904fbe5a98d3d3f8711131f40083c2b796fd64",
+    "mtime_ns": 1222266249000000000
+  },
+  {
+    "path": "第五章CPU\\教学动画\\5.32.swf",
+    "bytes": 50589,
+    "storage": "git",
+    "sha256": "1df3594965ad52c9d74b2052796c0d0090feec32bf5b200835006e1519251cd6",
+    "mtime_ns": 1210771620000000000
+  },
+  {
+    "path": "第五章CPU\\教学动画\\5.33.html",
+    "bytes": 321,
+    "storage": "git",
+    "sha256": "aeee80008ee7c4138344ea277027f91b69af6b7cc8abfcf9a9d9e646aeec1232",
+    "mtime_ns": 1222266702000000000
+  },
+  {
+    "path": "第五章CPU\\教学动画\\5.33.swf",
+    "bytes": 248868,
+    "storage": "git",
+    "sha256": "be1a61b97d7cac870e686522a41e689d120ccda5f1ea4312b963a7a4cacd517d",
+    "mtime_ns": 1210771754000000000
+  },
+  {
+    "path": "第五章CPU\\教学动画\\5.5-5.13.swf",
+    "bytes": 3731182,
+    "storage": "git",
+    "sha256": "ae8d0d01e9e42cb9089f77958c305cf111bcdb5f60df2ee4655dae5a30acabea",
+    "mtime_ns": 1210770478000000000
+  },
+  {
+    "path": "第五章CPU\\教学动画\\5.5.html",
+    "bytes": 337,
+    "storage": "git",
+    "sha256": "1a5b0f2c5734a6fd5adc3f1d38bb5399379f0396219fe4893e3c02b8ee554e6f",
+    "mtime_ns": 1222246501000000000
+  }
+]
